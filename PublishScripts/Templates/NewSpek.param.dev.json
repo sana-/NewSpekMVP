@@ -1,0 +1,32 @@
+{
+  "siteName": {
+    "value": "Newspek"
+  },
+  "hostingPlanName": {
+    "value": "NewspekTestiPlan"
+  },
+  "siteLocation": {
+    "value": "North Europe"
+  },
+  "sku": {
+    "value": "Free"
+  },
+  "workerSize": {
+    "value": "0"
+  },
+  "serverName": {
+    "value": "newspek"
+  },
+  "serverLocation": {
+    "value": "North Europe"
+  },
+  "administratorLogin": {
+    "value": "dbadmin"
+  },
+  "administratorLoginPassword": {
+    "value": "Angeli81"
+  },
+  "databaseName": {
+    "value": "Newspek_db"
+  }
+}
